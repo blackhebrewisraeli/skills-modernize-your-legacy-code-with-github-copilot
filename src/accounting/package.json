@@ -1,0 +1,11 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js modernization of the COBOL account management system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  }
+}
